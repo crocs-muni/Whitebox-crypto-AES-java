@@ -1,8 +1,7 @@
 Whitebox-crypto-AES-java
 ========================
 
-[![Build Status](https://travis-ci.org/ph4r05/Whitebox-crypto-AES-java.svg?branch=master)](https://travis-ci.org/ph4r05/Whitebox-crypto-AES-java)
-[![Coverity Status](https://scan.coverity.com/projects/7189/badge.svg)](https://scan.coverity.com/projects/ph4r05-whitebox-crypto-aes-java)
+[![Build Status](https://travis-ci.org/crocs-muni/Whitebox-crypto-AES-java.svg?branch=master)](https://travis-ci.org/crocs-muni/Whitebox-crypto-AES-java)
 
 Whitebox cryptography AES implementation.
 
